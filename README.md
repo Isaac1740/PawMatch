@@ -19,7 +19,7 @@ A modern React-based project utilizing the latest frontend technologies and tool
 - Node.js (v14.x or higher)
 - npm or yarn
 
-## 🛠 Installation
+## Installation
 
 1. Install dependencies:
    ```bash
